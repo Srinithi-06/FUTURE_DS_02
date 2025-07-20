@@ -1,32 +1,37 @@
 # 📣 Social Media Campaign Performance Tracker - Future Interns Task 2
 
 ## 📌 Overview
-This repository contains **Task 2** of my Future Interns Internship (**Data Science & Analytics Track**).  
-I have analyzed a Social Media Ad Campaign dataset (Facebook/Instagram) using **Power BI** to track and evaluate:
-- Performance Metrics
-- Engagement Rate
-- CTR (Click-Through Rate)
-- ROI (Return on Investment)
+This repository contains **Task 2** of my **Future Interns Data Science & Analytics Internship**.  
+In this task, I analyzed a **Social Media Ad Campaign Dataset (Facebook/Instagram)** using **Power BI** to track the performance of ad campaigns.
 
-## 🎨 Dashboard Features
-- Campaign-wise Performance Breakdown
-- Monthly CTR & Engagement Trends
-- Spend vs Revenue Comparison
-- ROI Analysis
-- Interactive Filters for Campaigns & Time Period
+## 🎨 Dashboard Highlights
+- ✅ Campaign-wise Ad Spend, Clicks, Impressions
+- ✅ CTR (Click-Through Rate) and ROI (Return on Investment) Analysis
+- ✅ Monthly Engagement Trends
+- ✅ Interactive Filters for Ad Campaigns, Platforms, and Dates
+- ✅ Clean, Insightful, Interactive Dashboard for Decision-Making
 
 ## 📁 Files Included
 | File | Description |
 |------|-------------|
-| `campaign_performance.pbix` | Power BI Dashboard File |
-| `campaign_dataset.csv` | Dataset used |
-| `dashboard.png` | Dashboard Screenshot |
-| `README.md` | Project Details |
+| `campaign_performance.pbix` | Main Power BI Dashboard File |
+| `campaign_dataset.csv` | Source Dataset |
+| `dashboard.png` | Dashboard Screenshot Preview |
+| `README.md` | Project Overview and Documentation |
 
-## ✅ Tools Used
-- Power BI
-- Dataset Source: Kaggle
-- DAX Functions
+## 🧰 Tools Used
+- 📊 Microsoft Power BI (Dashboarding & Data Analysis)
+- 📁 Kaggle Dataset (Ad Campaign Data)
+- 🧹 Data Cleaning with Power Query
+- 💡 DAX Functions for Calculations
 
 ## ✨ Outcome
-Created an interactive dashboard providing key marketing insights to optimize social media campaigns and maximize ROI.
+Through this dashboard, I identified:
+- ⭐️ High-performing ad campaigns
+- ⭐️ Optimal posting periods
+- ⭐️ Improved understanding of ad spend efficiency
+- ⭐️ Easy-to-understand business storytelling through visuals
+
+## 🎁 Internship Details
+This project is part of **Task 2** under the **Future Interns Internship - Data Science & Analytics Track**.
+
